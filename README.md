@@ -1,4 +1,3 @@
-````markdown
 # 📘 HTTP Error Code Transformation Using Kong Post Function Plugin
 
 ---
